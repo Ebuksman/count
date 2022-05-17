@@ -1,0 +1,23 @@
+body{
+    background: url(./phones.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.phones:hover{
+    transition: all 1s;
+    color: aquamarine;
+}
+
+.add button{
+    font-size: larger;
+    border: 50px;
+    border-radius: 100px;
+    background-color: rgb(20, 190, 220);
+    transition: all 1s;
+}
+
+button:hover {
+    transition: all 1s; 
+    background-color:yellow;
+}
